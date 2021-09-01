@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/12/02 18:32:00.000.293,=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 23:45:58.237,=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 23:47:13.373,D:\Pessoais\Estudos\Delphi\DelphiServiceExample\untService.dfm=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/31 23:47:13.373,D:\Pessoais\Estudos\Delphi\DelphiServiceExample\untService.pas=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/31 23:47:35.774,D:\Pessoais\Estudos\Delphi\DelphiServiceExample\DelphiServiceExample.dproj=C:\Users\Vitor Fornazieri\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
